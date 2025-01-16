@@ -22,7 +22,7 @@ function changeTurn(){
     }
     else{
         turn = "X";
-        document.querySelector(".bg").style.left = "O";
+        document.querySelector(".bg").style.left = "0";
     }
 }
 
